@@ -1,5 +1,3 @@
-## ScreenSound
-
 <h1>Screen Sound</h1>
 
 <p>
